@@ -7,7 +7,7 @@
 
 ```javascript
 const Fatemeh = {
-    pronouns: "he" | "him",
+    pronouns: "she" | "her",
     code: ["HTML", "CSS", "Tailwind", "Bootstrap", "JavaScript", "React", "Redux", "React Query", "React Hook Form"],
     askMeAbout: ["web development", "tech"],
     technologies: {
